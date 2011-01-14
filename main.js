@@ -6,7 +6,7 @@
            $(this).show();
         else
            $(this).hide();   
-      })
-    })
+      });
+    });
   });                                                                                                              
 })(document,jQuery);
